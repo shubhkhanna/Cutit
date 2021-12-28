@@ -6,7 +6,7 @@
 
 ## Demo
 
-<p align="center"><img src="https://github.com/shubhkhanna/cutit/blob/develop/demo.gif"></p>
+<p align="center"><img src="https://github.com/shubhkhanna/Cutit/blob/main/demo.gif"></p>
 
 ## Tech Stack
 
